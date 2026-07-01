@@ -1,0 +1,4 @@
+﻿Binary Test,,,,,,,,
+Type of cancers,Number of cancers,Random forest accuracy,Random forest precision,Random forest recall,SVM accuracy,SVM precision,SVM recall,miRNAs from top 20 feature selection
+Breast,1,0.990885086,0.982722952,0.960589783,0.989235623,0.964532324,0.958501567,"hsa-mir-106b, hsa-mir-10b, hsa-mir-1258, hsa-mir-1301, hsa-mir-130b, hsa-mir-139, hsa-mir-141, hsa-mir-145, hsa-mir-182, hsa-mir-183, hsa-mir-195, hsa-mir-21, hsa-mir-210, hsa-mir-301b, hsa-mir-4746, hsa-mir-769, hsa-mir-7706, hsa-mir-93, hsa-mir-937, hsa-mir-96"
+Thyroid,1,0.961632342,0.943725423,0.883898427,0.966864989,0.915164791,0.916420878,"hsa-mir-106b, hsa-mir-10b, hsa-mir-1258, hsa-mir-1301, hsa-mir-130b, hsa-mir-139, hsa-mir-141, hsa-mir-145, hsa-mir-182, hsa-mir-183, hsa-mir-195, hsa-mir-21, hsa-mir-210, hsa-mir-301b, hsa-mir-4746, hsa-mir-769, hsa-mir-7706, hsa-mir-93, hsa-mir-937, hsa-mir-96"
